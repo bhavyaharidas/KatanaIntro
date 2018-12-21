@@ -1,0 +1,17 @@
+C:\Users\bhavy\source\repos\KatanaIntro\KatanaIntro\bin\Debug\KatanaIntro.exe.config
+C:\Users\bhavy\source\repos\KatanaIntro\KatanaIntro\bin\Debug\KatanaIntro.exe
+C:\Users\bhavy\source\repos\KatanaIntro\KatanaIntro\bin\Debug\KatanaIntro.pdb
+C:\Users\bhavy\source\repos\KatanaIntro\KatanaIntro\bin\Debug\Microsoft.Owin.dll
+C:\Users\bhavy\source\repos\KatanaIntro\KatanaIntro\bin\Debug\Microsoft.Owin.Host.HttpListener.dll
+C:\Users\bhavy\source\repos\KatanaIntro\KatanaIntro\bin\Debug\Microsoft.Owin.Hosting.dll
+C:\Users\bhavy\source\repos\KatanaIntro\KatanaIntro\bin\Debug\Owin.dll
+C:\Users\bhavy\source\repos\KatanaIntro\KatanaIntro\bin\Debug\Microsoft.Owin.xml
+C:\Users\bhavy\source\repos\KatanaIntro\KatanaIntro\bin\Debug\Microsoft.Owin.Host.HttpListener.xml
+C:\Users\bhavy\source\repos\KatanaIntro\KatanaIntro\bin\Debug\Microsoft.Owin.Hosting.xml
+C:\Users\bhavy\source\repos\KatanaIntro\KatanaIntro\obj\Debug\KatanaIntro.csprojAssemblyReference.cache
+C:\Users\bhavy\source\repos\KatanaIntro\KatanaIntro\obj\Debug\KatanaIntro.csproj.CoreCompileInputs.cache
+C:\Users\bhavy\source\repos\KatanaIntro\KatanaIntro\obj\Debug\KatanaIntro.csproj.CopyComplete
+C:\Users\bhavy\source\repos\KatanaIntro\KatanaIntro\obj\Debug\KatanaIntro.exe
+C:\Users\bhavy\source\repos\KatanaIntro\KatanaIntro\obj\Debug\KatanaIntro.pdb
+C:\Users\bhavy\source\repos\KatanaIntro\KatanaIntro\bin\Debug\Microsoft.Owin.Diagnostics.dll
+C:\Users\bhavy\source\repos\KatanaIntro\KatanaIntro\bin\Debug\Microsoft.Owin.Diagnostics.xml
